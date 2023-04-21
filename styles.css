@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+header {
+    background-color: white;
+    padding: 15px 0px;
+}
+header h1 {
+    width: 500px;
+    margin: 0;
+    margin: auto;
+}
+article {
+    border: 1px solid black;
+    margin: auto;
+    width: 500px;
+    margin-top: 60px;
+}
+.div1tittle {
+    border: 1px solid darkblue;
+    display: flex;
+    justify-content: last baseline;
+    padding: 15px 15px;
+}
+.divtittle {
+    font-size: 1,2rem;
+    font-weight: bold;
+}
+.div1date {
+    font-size: 0,7rem;
+    color: aquamarine;
+    margin: 0;
+}
+.div1text {
+    padding: 16px;
+    margin: 0;
+}
+.div1text p {
+    padding: 0;
+    margin: 0;
+    color: black;
+}
